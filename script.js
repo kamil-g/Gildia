@@ -1,7 +1,7 @@
 document.querySelector("#pl").addEventListener("click", function(){ switchLanguage("pl") });
 document.querySelector("#en").addEventListener("click", function(){ switchLanguage("en") });
 
-switchLanguage("en");
+switchLanguage("pl");
 
 function switchLanguage(lng)
 {
